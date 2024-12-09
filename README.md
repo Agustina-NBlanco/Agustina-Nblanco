@@ -32,9 +32,9 @@ Soy estudiante de **Full Stack Developer** en **Henry**, especializada en BackEn
 
 ## 📫 Contacto✨
 
-- **Email:** agustinanahirblanco@gmail.com✨
+- **Email:** agustinanahirblanco@gmail.com ✨
 
-- **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
+- **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/ ✨
 
   <div align="center">✨✨✨✨✨ </div>
   
@@ -74,9 +74,9 @@ I am a **Full Stack Developer** student at **Henry**, specializing in BackEnd De
 
 ## 📫 Contact✨
 
-- **Email:** agustinanahirblanco@gmail.com✨
+- **Email:** agustinanahirblanco@gmail.com ✨
 
-- **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
+- **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/ ✨
   
 <div align="center">✨✨✨✨✨ </div>
 
