@@ -36,7 +36,8 @@ Soy estudiante de **Full Stack Developer** en **Henry**, especializada en BackEn
 
 - **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
 
-                                                              ✨✨✨✨✨
+  <div align="center">✨✨✨✨✨ </div>
+  
 --- 
 
 ## Hello, I’m Agustina Nahir Blanco👋✨
@@ -77,5 +78,5 @@ I am a **Full Stack Developer** student at **Henry**, specializing in BackEnd De
 
 - **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
   
-                                                              ✨✨✨✨✨
+<div align="center">✨✨✨✨✨ </div>
 
