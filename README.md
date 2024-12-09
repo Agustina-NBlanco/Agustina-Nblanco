@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hola soy Agustina Nahir Blanco👋✨
 
-<!--
-**Agustina-NBlanco/Agustina-Nblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+👩‍💻 Sobre mí✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Full Stack Developer en Henry, especializada en BackEnd Development, con experiencia en NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM y Mongoose.✨
+
+🚀 Proyectos✨
+
+- Desarrollo Web Full Stack: Creación de aplicaciones web completas durante los módulos 2 y 3 de mi formación.✨
+
+- Especialización en Backend: Desarrollo de una API con NestJS y PostgreSQL durante el módulo 4.✨
+
+- Proyecto Final: Trabajo en el desarrollo backend para una tienda virtual de juegos, colaborando con un equipo para lograr una integración completa del proyecto.✨
+
+🌱 Actualmente aprendiendo✨
+
+- Me apasiona el aprendizaje continuo y actualmente estoy enfocada en mejorar mis conocimientos en Ciberseguridad e Inglés, mientras exploro nuevos lenguajes de programación y fortalezco tanto mis habilidades técnicas como blandas.✨
+
+🔍 Abierta a oportunidades✨
+
+- Busco oportunidades para contribuir como desarrolladora y crecer a través de proyectos innovadores.✨
+
+📫 Contacto✨
+
+- Email: agustinanahirblanco@gmail.com✨
+
+- LinkedIn: https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
+
+                                                              ✨✨✨✨✨
+--- 
+
+## Hello, I’m Agustina Nahir Blanco👋✨
+
+👩‍💻 About Me✨
+
+I am a Full Stack Developer student at Henry, specializing in BackEnd Development, with experience in NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM, and Mongoose.✨
+
+🚀 Projects✨
+
+- Full Stack Web Development: Created complete web applications during modules 2 and 3 of my training.✨
+
+- Backend Specialization: Developed an API with NestJS and PostgreSQL during module 4.✨
+
+- Final Project: Worked on backend development for an online game store, collaborating with a team to achieve full project integration.✨
+
+🌱 Currently Learning✨
+
+- I am passionate about continuous learning and currently focused on improving my knowledge in Cybersecurity and English, while exploring new programming languages and enhancing both my technical and soft skills.✨
+
+🔍 Open to Opportunities✨
+
+- I am looking for opportunities to contribute as a developer and grow through innovative projects.✨
+  
+📫 Contact✨
+
+- Email: agustinanahirblanco@gmail.com✨
+
+- LinkedIn: https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
+  
+                                                                       ✨✨✨✨✨
+
