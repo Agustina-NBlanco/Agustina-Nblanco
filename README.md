@@ -77,5 +77,5 @@ I am a **Full Stack Developer** student at **Henry**, specializing in BackEnd De
 
 - **LinkedIn:** https://www.linkedin.com/in/agustina-nahir-blanco-2392672bb/✨
   
-                                                                       ✨✨✨✨✨
+                                                              ✨✨✨✨✨
 
