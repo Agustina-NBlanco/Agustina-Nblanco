@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre mí✨
 
-Soy estudiante de **Full Stack Developer** en **Henry**, especializada en BackEnd Development, con experiencia en NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM y Mongoose.✨
+Soy graduada de la carrera **Full Stack Developer** en **Henry**, especializada en BackEnd Development, con experiencia en NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM y Mongoose.✨
 
 --- 
 
@@ -46,8 +46,7 @@ Soy estudiante de **Full Stack Developer** en **Henry**, especializada en BackEn
 
 ## 👩‍💻 About Me✨
 
-I am a **Full Stack Developer** student at **Henry**, specializing in BackEnd Development, with experience in NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM, and Mongoose.✨
-
+I graduated from the Full Stack Developer program at Henry, specialized in BackEnd Development, with experience in NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM, and Mongoose.✨
 ---
 
 ## 🚀 Projects✨
