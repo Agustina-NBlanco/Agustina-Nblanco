@@ -7,6 +7,8 @@
 Soy graduada de la carrera **Full Stack Developer** en **Henry**, especializada en BackEnd Development, con experiencia en NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM y Mongoose.✨
 
 --- 
+Soy desarolladora Web Full Stack, con especialización en BackEnd. A lo largo de mi formación, he adquirido experiencia práctica trabajando con tecnologías como NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM y Mongoose, además cuento con una base sólida como técnica en informática.
+Estoy en búsqueda de nuevas oportunidades que me permitan aplicar mis conocimientos y seguir creciendo como desarrolladora, contribuyendo al éxito de proyectos innovadores. Puedes contactarme via email agustinanahirblanco@gmail.com.
 
 ## 🚀 Proyectos✨
 
