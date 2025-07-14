@@ -48,7 +48,9 @@ Estoy en búsqueda de nuevas oportunidades que me permitan aplicar mis conocimie
 
 ## 👩‍💻 About Me✨
 
-I graduated from the Full Stack Developer program at Henry, specialized in BackEnd Development, with experience in NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM, and Mongoose.✨
+I am a Full Stack Web developer, specializing in BackEnd. Throughout my training, I have gained practical experience working with technologies such as NestJS, PostgreSQL, MongoDB, Express JS, ReactJS, JavaScript, TypeScript, TypeORM and Mongoose, and I also have a solid foundation as a computer technician.
+
+I am looking for new opportunities that allow me to apply my knowledge and continue growing as a developer, contributing to the success of innovative projects. You can contact me via email agustinanahirblanco@gmail.com✨
 ---
 
 ## 🚀 Projects✨
